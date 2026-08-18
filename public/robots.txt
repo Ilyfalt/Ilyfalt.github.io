@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://520236.xyz/sitemap.xml
