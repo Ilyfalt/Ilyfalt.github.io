@@ -36,6 +36,8 @@ buildExpired = false
   enableEmoji = true
   enableGoogleAnalytics = false
 
+  mainSections = ["posts"]
+
   [params.homeInfoParams]
     Title = "你好，我是 Ilyfalt"
     Content = "欢迎来到我的博客，这里记录技术笔记和折腾心得。"
